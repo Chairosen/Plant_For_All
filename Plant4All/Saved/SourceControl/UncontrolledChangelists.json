@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Github/Plant_For_All/Plant4All/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"C:/Github/Plant_For_All/Plant4All/Content/blueprint/BP_testCube.uasset",
-				"C:/Github/Plant_For_All/Plant4All/Content/Widget/WBP_inventory.uasset"
+				"C:/Github/Plant_For_All/Plant4All/Content/Widget/WBP_inventory.uasset",
+				"C:/Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_inventory.uasset",
+				"C:/Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_I_object.uasset"
 			]
 		}
 	]

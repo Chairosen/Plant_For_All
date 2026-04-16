@@ -3172,3 +3172,203 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.04.16-10.54.11:080][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widget/WBP_inventory_Auto3
 [2026.04.16-10.54.11:080][978]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/WBP_inventory_Auto31746A4634AB9E15CE66FF6A75C70BD09.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/Widget/WBP_inventory_Auto3.uasset'
 [2026.04.16-10.54.11:081][978]LogFileHelpers: Auto-saving content packages took 0.224
+[2026.04.16-10.56.20:416][369]LogDerivedDataCache: C:/Users/niffl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-10.57.02:012][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.16-10.58.05:182][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3819.856201
+[2026.04.16-10.58.06:182][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-10.58.06:182][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3820.523438, Update Interval: 335.129852
+[2026.04.16-11.04.11:698][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.16-11.04.11:703][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.038
+[2026.04.16-11.04.11:703][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController] ([2] browsable assets)...
+[2026.04.16-11.04.11:703][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController]
+[2026.04.16-11.04.11:716][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto4
+[2026.04.16-11.04.11:716][321]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_FirstPersonPlayerController_AADC291E741BE9609AD4B9D855E665C69.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto4.uasset'
+[2026.04.16-11.04.11:717][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_inventory] ([2] browsable assets)...
+[2026.04.16-11.04.11:717][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_inventory]
+[2026.04.16-11.04.11:717][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_inventory" FILE="../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/Widget/WBP_inventory_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.04.16-11.04.11:726][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widget/WBP_inventory_Auto4
+[2026.04.16-11.04.11:726][321]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/WBP_inventory_Auto496DBC9A14F8DB9B95EBA13BBD9B56273.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/Widget/WBP_inventory_Auto4.uasset'
+[2026.04.16-11.04.11:727][321]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.04.16-11.04.36:922][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4211.597656
+[2026.04.16-11.04.37:921][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.04.37:921][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4212.263672, Update Interval: 315.046234
+[2026.04.16-11.09.03:505][605]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.16-11.09.14:821][869]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.16-11.09.14:839][869]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.16-11.09.14:855][869]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.16-11.09.14:858][869]LogAutomationController: Ignoring very large delta of 6.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.16-11.09.14:873][870]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.16-11.09.21:695][267]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DA_inventory
+[2026.04.16-11.09.21:708][267]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.16-11.09.26:367][523]LogContentBrowser: Deferred new asset file creation: BP_DA_inventory_Child
+[2026.04.16-11.09.26:382][523]LogContentBrowser: Creating deferred item: BP_DA_inventory_Child
+[2026.04.16-11.09.26:419][524]LogContentBrowser: Renaming the item being created (Deferred Item: BP_DA_inventory_Child).
+[2026.04.16-11.09.46:762][741]LogContentBrowser: Attempting asset rename: BP_DA_inventory_Child -> BP_DA_I_seed
+[2026.04.16-11.09.46:769][741]LogContentBrowser: End creating deferred item BP_DA_inventory_Child
+[2026.04.16-11.09.49:427][879]LogContentBrowser: Deferred new asset file creation: BP_DA_inventory_Child
+[2026.04.16-11.09.49:443][879]LogContentBrowser: Creating deferred item: BP_DA_inventory_Child
+[2026.04.16-11.09.49:462][880]LogContentBrowser: Renaming the item being created (Deferred Item: BP_DA_inventory_Child).
+[2026.04.16-11.10.01:168][580]LogContentBrowser: Attempting asset rename: BP_DA_inventory_Child -> BP_DA_I_object
+[2026.04.16-11.10.01:175][580]LogContentBrowser: End creating deferred item BP_DA_inventory_Child
+[2026.04.16-11.10.04:460][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/BP_DA_inventory.BP_DA_inventory
+[2026.04.16-11.10.04:461][754]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.16-11.10.06:553][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-11.10.06:642][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_DA_inventory] ([2] browsable assets)...
+[2026.04.16-11.10.06:642][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_DA_inventory]
+[2026.04.16-11.10.06:642][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_DA_inventory" FILE="../../../../../../Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_inventory.uasset" SILENT=true
+[2026.04.16-11.10.06:646][855]LogSavePackage: Moving output files for package: /Game/blueprint/BP_DA_inventory
+[2026.04.16-11.10.06:646][855]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_DA_inventory041BD72942220180A54D8C852EA503ED.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_inventory.uasset'
+[2026.04.16-11.10.06:663][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.400 ms (total: 1.06 sec)
+[2026.04.16-11.10.06:741][855]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-11.10.06:741][855]LogContentValidation: Enabled validators:
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-11.10.06:741][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-11.10.06:741][855]AssetCheck: /Game/blueprint/BP_DA_inventory Validating asset
+[2026.04.16-11.10.06:766][855]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Github/Plant_For_All/Plant4All/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.16-11.10.10:209][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/BP_DA_I_seed.BP_DA_I_seed
+[2026.04.16-11.10.10:209][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.16-11.10.13:767][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/BP_DA_I_object.BP_DA_I_object
+[2026.04.16-11.10.13:767][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.16-11.10.14:703][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-11.10.14:794][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_DA_I_object] ([2] browsable assets)...
+[2026.04.16-11.10.14:794][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_DA_I_object]
+[2026.04.16-11.10.14:795][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_DA_I_object" FILE="../../../../../../Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_I_object.uasset" SILENT=true
+[2026.04.16-11.10.14:798][247]LogSavePackage: Moving output files for package: /Game/blueprint/BP_DA_I_object
+[2026.04.16-11.10.14:798][247]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_DA_I_object891163FE472C0E9F14524AB45E0170E5.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Content/blueprint/BP_DA_I_object.uasset'
+[2026.04.16-11.10.14:825][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.560 ms (total: 1.18 sec)
+[2026.04.16-11.10.14:928][247]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-11.10.14:928][247]LogContentValidation: Enabled validators:
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-11.10.14:928][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-11.10.14:928][247]AssetCheck: /Game/blueprint/BP_DA_I_object Validating asset
+[2026.04.16-11.10.14:951][247]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Github/Plant_For_All/Plant4All/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.16-11.10.42:168][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4576.835938
+[2026.04.16-11.10.42:366][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.10.42:366][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4577.020020, Update Interval: 330.885345
+[2026.04.16-11.14.12:196][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.16-11.14.12:199][401]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.084
+[2026.04.16-11.14.12:200][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_DA_I_seed] ([2] browsable assets)...
+[2026.04.16-11.14.12:200][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_DA_I_seed]
+[2026.04.16-11.14.12:200][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_DA_I_seed" FILE="../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_I_seed_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.04.16-11.14.12:202][401]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP_DA_I_seed_Auto5
+[2026.04.16-11.14.12:202][401]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_DA_I_seed_Auto53A644F064FD4DD67B0BC828832BBFA52.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_I_seed_Auto5.uasset'
+[2026.04.16-11.14.12:203][401]LogFileHelpers: Auto-saving content packages took 0.003
+[2026.04.16-11.17.03:042][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4957.722168
+[2026.04.16-11.17.03:212][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.17.03:212][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4957.874512, Update Interval: 322.985931
+[2026.04.16-11.22.58:534][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5313.214355
+[2026.04.16-11.22.58:735][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.22.58:735][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5313.398438, Update Interval: 339.899902
+[2026.04.16-11.29.34:289][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5708.965820
+[2026.04.16-11.29.34:452][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.29.34:452][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5709.112305, Update Interval: 343.131805
+[2026.04.16-11.36.14:412][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6109.069824
+[2026.04.16-11.36.14:600][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.36.14:600][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6109.244629, Update Interval: 342.161316
+[2026.04.16-11.42.48:554][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6503.192383
+[2026.04.16-11.42.48:754][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.42.48:754][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6503.374512, Update Interval: 340.742218
+[2026.04.16-11.49.27:927][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6902.541504
+[2026.04.16-11.49.28:141][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.49.28:142][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6902.739746, Update Interval: 313.381744
+[2026.04.16-11.55.30:373][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7264.996582
+[2026.04.16-11.55.30:555][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-11.55.30:555][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7265.163086, Update Interval: 352.314819
+[2026.04.16-11.56.20:417][485]LogDerivedDataCache: C:/Users/niffl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-12.02.22:663][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7677.266602
+[2026.04.16-12.02.22:831][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.02.22:831][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7677.417969, Update Interval: 357.526184
+[2026.04.16-12.09.08:619][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8083.188477
+[2026.04.16-12.09.08:807][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.09.08:807][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8083.361328, Update Interval: 313.218781
+[2026.04.16-12.15.12:888][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8447.474609
+[2026.04.16-12.15.13:091][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.15.13:091][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8447.658203, Update Interval: 310.673553
+[2026.04.16-12.21.13:418][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8807.968750
+[2026.04.16-12.21.13:618][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.21.13:618][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8808.150391, Update Interval: 347.672974
+[2026.04.16-12.27.32:981][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9187.507812
+[2026.04.16-12.27.33:147][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.27.33:147][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9187.657227, Update Interval: 325.670349
+[2026.04.16-12.33.53:474][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9568.052734
+[2026.04.16-12.33.53:659][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.33.53:659][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9568.219727, Update Interval: 345.373077
+[2026.04.16-12.40.33:396][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9967.989258
+[2026.04.16-12.40.33:560][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.40.33:560][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9968.136719, Update Interval: 316.855377
+[2026.04.16-12.46.21:003][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10315.602539
+[2026.04.16-12.46.21:171][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.46.21:171][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10315.750977, Update Interval: 319.180878
+[2026.04.16-12.52.34:869][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10689.381836
+[2026.04.16-12.52.35:035][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.52.35:035][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10689.532227, Update Interval: 314.300964
+[2026.04.16-12.56.20:416][240]LogDerivedDataCache: C:/Users/niffl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-12.58.42:184][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11056.681641
+[2026.04.16-12.58.42:350][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-12.58.42:350][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11056.830078, Update Interval: 308.261963
+[2026.04.16-13.04.49:502][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11423.994141
+[2026.04.16-13.04.49:713][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.04.49:713][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11424.180664, Update Interval: 326.920990
+[2026.04.16-13.11.05:416][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11799.945312
+[2026.04.16-13.11.05:615][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.11.05:615][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11800.127930, Update Interval: 300.994293
+[2026.04.16-13.16.55:813][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12150.291992
+[2026.04.16-13.16.56:030][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.16.56:030][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12150.495117, Update Interval: 323.806274
+[2026.04.16-13.23.12:041][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12526.427734
+[2026.04.16-13.23.12:225][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.23.12:225][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12526.594727, Update Interval: 322.094177
+[2026.04.16-13.29.13:450][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12887.740234
+[2026.04.16-13.29.13:633][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.29.13:633][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12887.907227, Update Interval: 313.194977
+[2026.04.16-13.34.58:193][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13232.484375
+[2026.04.16-13.34.58:408][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.34.58:408][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13232.682617, Update Interval: 318.256165
+[2026.04.16-13.40.51:086][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13585.303711
+[2026.04.16-13.40.51:269][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.40.51:269][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13585.469727, Update Interval: 348.427368
+[2026.04.16-13.47.29:024][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13983.226562
+[2026.04.16-13.47.29:226][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.47.29:226][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13983.412109, Update Interval: 346.768402
+[2026.04.16-13.51.30:233][395]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.16-13.51.30:251][395]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.16-13.51.30:271][395]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.16-13.51.30:274][395]LogAutomationController: Ignoring very large delta of 6.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.16-13.51.30:292][396]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.16-13.51.35:054][672]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DA_plant
+[2026.04.16-13.51.35:062][672]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.16-13.52.11:508][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/BP_DA_plant.BP_DA_plant
+[2026.04.16-13.52.11:510][619]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.16-13.52.21:225][166]LogSlate: Took 0.001452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.16-13.52.51:379][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.16-13.52.51:382][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.046
+[2026.04.16-13.52.51:383][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_DA_plant] ([2] browsable assets)...
+[2026.04.16-13.52.51:383][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_DA_plant]
+[2026.04.16-13.52.51:383][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_DA_plant" FILE="../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_plant_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.04.16-13.52.51:385][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP_DA_plant_Auto6
+[2026.04.16-13.52.51:385][942]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_DA_plant_Auto6EE05628E4187A117F8C0DF804BDC9380.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_plant_Auto6.uasset'
+[2026.04.16-13.52.51:385][942]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.04.16-13.53.58:788][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14372.769531
+[2026.04.16-13.53.58:988][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-13.53.58:988][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14372.953125, Update Interval: 320.257568
+[2026.04.16-13.56.20:416][536]LogDerivedDataCache: C:/Users/niffl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-14.00.18:958][860]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14752.411133
+[2026.04.16-14.00.19:134][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-14.00.19:134][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14752.560547, Update Interval: 341.388580
+[2026.04.16-14.00.34:236][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.04.16-14.03.04:905][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.16-14.03.04:908][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.033
+[2026.04.16-14.03.04:909][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_DA_plant] ([2] browsable assets)...
+[2026.04.16-14.03.04:909][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_DA_plant]
+[2026.04.16-14.03.04:909][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_DA_plant" FILE="../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_plant_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.04.16-14.03.04:912][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP_DA_plant_Auto7
+[2026.04.16-14.03.04:912][139]LogSavePackage: Moving '../../../../../../Github/Plant_For_All/Plant4All/Saved/BP_DA_plant_Auto71FF69BFB4B39D57AC5410D908B7660A5.tmp' to '../../../../../../Github/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_DA_plant_Auto7.uasset'
+[2026.04.16-14.03.04:916][139]LogFileHelpers: Auto-saving content packages took 0.008
