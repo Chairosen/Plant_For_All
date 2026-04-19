@@ -4099,3 +4099,157 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.04.19-17.29.10:257][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.19-17.29.10:257][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10363.419922, Update Interval: 343.736084
 [2026.04.19-17.29.19:200][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.04.19-17.31.01:280][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.04.19-17.31.01:287][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.056
+[2026.04.19-17.31.01:287][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController] ([2] browsable assets)...
+[2026.04.19-17.31.01:288][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController]
+[2026.04.19-17.31.01:359][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto4
+[2026.04.19-17.31.01:360][684]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/BP_FirstPersonPlayerController_A7580947A4E887145278F4094DDA00196.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController_Auto4.uasset'
+[2026.04.19-17.31.01:362][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprint/BP_ToEarth] ([2] browsable assets)...
+[2026.04.19-17.31.01:567][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprint/BP_ToEarth.BP_ToEarth]
+[2026.04.19-17.31.01:569][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_ToEarth]
+[2026.04.19-17.31.01:613][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprint/BP_ToEarth_Auto4
+[2026.04.19-17.31.01:615][684]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/BP_ToEarth_Auto4D77126254342AB1BFF046B9B964D11E8.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/Autosaves/Game/blueprint/BP_ToEarth_Auto4.uasset'
+[2026.04.19-17.31.01:616][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widget/WBP_Quests] ([2] browsable assets)...
+[2026.04.19-17.31.01:626][684]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widget/WBP_Quests.WBP_Quests]
+[2026.04.19-17.31.01:626][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Quests]
+[2026.04.19-17.31.01:645][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widget/WBP_Quests_Auto4
+[2026.04.19-17.31.01:645][684]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/WBP_Quests_Auto41AD284384C61AB466FD5D9826B2D2B0D.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/Autosaves/Game/Widget/WBP_Quests_Auto4.uasset'
+[2026.04.19-17.31.01:649][684]LogFileHelpers: Auto-saving content packages took 0.361
+[2026.04.19-17.35.41:436][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10754.740234
+[2026.04.19-17.35.42:439][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.35.42:439][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10755.405273, Update Interval: 350.359192
+[2026.04.19-17.38.15:605][303]LogDerivedDataCache: C:/Users/chang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-17.41.30:299][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.19-17.41.31:809][885]LogSlate: Window 'Save Content' being destroyed
+[2026.04.19-17.41.31:867][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-17.41.32:090][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController] ([2] browsable assets)...
+[2026.04.19-17.41.32:090][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController]
+[2026.04.19-17.41.32:153][885]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController
+[2026.04.19-17.41.32:154][885]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/BP_FirstPersonPlayerControllerD4DB54F8413039AC502A3C852164B037.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset'
+[2026.04.19-17.41.32:157][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/blueprint/BP_ToEarth] ([2] browsable assets)...
+[2026.04.19-17.41.32:158][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_ToEarth]
+[2026.04.19-17.41.32:158][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_ToEarth" FILE="../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/blueprint/BP_ToEarth.uasset" SILENT=true
+[2026.04.19-17.41.32:185][885]LogSavePackage: Moving output files for package: /Game/blueprint/BP_ToEarth
+[2026.04.19-17.41.32:187][885]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/BP_ToEarthA568D00D402455A8F65E6DAA81914F67.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/blueprint/BP_ToEarth.uasset'
+[2026.04.19-17.41.32:190][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/S_Quest] ([1] browsable assets)...
+[2026.04.19-17.41.32:190][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/S_Quest]
+[2026.04.19-17.41.32:190][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/S_Quest" FILE="../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/S_Quest.uasset" SILENT=true
+[2026.04.19-17.41.32:201][885]LogSavePackage: Moving output files for package: /Game/S_Quest
+[2026.04.19-17.41.32:202][885]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/S_Quest9375B209423BD444B144259B1C78BFAE.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/S_Quest.uasset'
+[2026.04.19-17.41.32:205][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widget/WBP_Quests] ([2] browsable assets)...
+[2026.04.19-17.41.32:205][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widget/WBP_Quests]
+[2026.04.19-17.41.32:205][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/WBP_Quests" FILE="../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/Widget/WBP_Quests.uasset" SILENT=true
+[2026.04.19-17.41.32:224][885]LogSavePackage: Moving output files for package: /Game/Widget/WBP_Quests
+[2026.04.19-17.41.32:224][885]LogSavePackage: Moving '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/WBP_QuestsECBC43DD4638B7E8A3BC18ACCE8E1DDA.tmp' to '../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Content/Widget/WBP_Quests.uasset'
+[2026.04.19-17.41.32:265][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 397.359 ms (total: 1.44 sec)
+[2026.04.19-17.41.32:344][885]LogStall: Shutdown...
+[2026.04.19-17.41.32:344][885]LogStall: Shutdown complete.
+[2026.04.19-17.41.32:436][885]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.32:436][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.32:754][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.19-17.41.32:754][885]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.32:755][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.33:082][885]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.19-17.41.33:082][885]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.33:082][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.33:390][885]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.33:390][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.33:402][885]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.33:402][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.33:539][885]LogSlate: Window 'Plant4All - Unreal Editor' being destroyed
+[2026.04.19-17.41.34:971][885]LogContentValidation: Display: Starting to validate 4 assets
+[2026.04.19-17.41.34:971][885]LogContentValidation: Enabled validators:
+[2026.04.19-17.41.34:971][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-17.41.34:971][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-17.41.34:971][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-17.41.34:971][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-17.41.34:971][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-17.41.34:972][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-17.41.34:972][885]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController Validating asset
+[2026.04.19-17.41.34:972][885]AssetCheck: /Game/blueprint/BP_ToEarth Validating asset
+[2026.04.19-17.41.34:972][885]AssetCheck: /Game/S_Quest Validating asset
+[2026.04.19-17.41.34:974][885]AssetCheck: /Game/Widget/WBP_Quests Validating asset
+[2026.04.19-17.41.35:270][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2026.04.19-17.41.35:352][885]Cmd: QUIT_EDITOR
+[2026.04.19-17.41.35:352][885]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.19-17.41.35:353][885]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/chang/Documents/GitHub/Plant_For_All/Plant4All/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-17.41.35:362][886]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.19-17.41.35:365][886]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.19-17.41.35:365][886]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.19-17.41.35:368][886]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:368][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:368][886]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.19-17.41.35:387][886]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.19-17.41.35:388][886]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.19-17.41.35:389][886]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.19-17.41.35:455][886]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:455][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:461][886]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:461][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:468][886]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:468][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:474][886]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:474][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:480][886]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-17.41.35:480][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-17.41.35:485][886]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.19-17.41.35:486][886]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.19-17.41.35:491][886]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.19-17.41.36:296][886]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.19-17.41.36:296][886]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.19-17.41.36:296][886]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.04.19-17.41.36:296][886]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.19-17.41.36:296][886]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.19-17.41.36:299][886]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.19-17.41.36:318][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.19-17.41.36:318][886]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.19-17.41.36:333][886]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.19-17.41.36:334][886]LogExit: Preparing to exit.
+[2026.04.19-17.41.36:512][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2026.04.19-17.41.36:526][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:526][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:527][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:528][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:529][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:529][886]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.36:529][886]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.19-17.41.37:641][886]LogEditorDataStorage: Deinitializing
+[2026.04.19-17.41.37:930][886]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.19-17.41.38:012][886]LogExit: Editor shut down
+[2026.04.19-17.41.38:033][886]LogExit: Transaction tracking system shut down
+[2026.04.19-17.41.38:592][886]LogExit: Object subsystem successfully closed.
+[2026.04.19-17.41.38:667][886]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.19-17.41.38:949][886]LogMemoryProfiler: Shutdown
+[2026.04.19-17.41.38:949][886]LogNetworkingProfiler: Shutdown
+[2026.04.19-17.41.38:949][886]LoadingProfiler: Shutdown
+[2026.04.19-17.41.38:949][886]LogTimingProfiler: Shutdown
+[2026.04.19-17.41.38:950][886]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.19-17.41.38:950][886]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.19-17.41.39:575][886]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.19-17.41.40:148][886]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.19-17.41.40:196][886]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.19-17.41.40:196][886]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDED3DF5-4527-BF2F-5194-7E916B5F76A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=6843cb694a59d1edb2dc1eae2b3078d4%7Cfc42c90b789649b3873a305bc16a468b%7C6bcc5178-bac6-452f-a3f8-9015cc7b17b0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.19-17.41.40:247][886]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.19-17.41.40:247][886]RenderDocPlugin: plugin has been unloaded.
+[2026.04.19-17.41.40:252][886]LogXGEController: Cleaning working directory: C:/Users/chang/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.19-17.41.40:264][886]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.19-17.41.40:264][886]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.19-17.41.40:264][886]LogPakFile: Destroying PakPlatformFile
+[2026.04.19-17.41.41:132][886]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.19-17.41.41:245][886]LogExit: Exiting.
+[2026.04.19-17.41.41:300][886]Log file closed, 04/19/26 19:41:41
